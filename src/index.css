@@ -1,0 +1,16 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.grey {
+  background-color: rgb(208, 214, 219);
+  color: black;
+  margin-left: 100px;
+}
+
+.width {
+  width: 300px;
+}
