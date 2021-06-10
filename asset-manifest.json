@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/INTERVIEW_04/static/css/main.432b6769.chunk.css",
+    "main.js": "/INTERVIEW_04/static/js/main.f50a825d.chunk.js",
+    "main.js.map": "/INTERVIEW_04/static/js/main.f50a825d.chunk.js.map",
+    "runtime-main.js": "/INTERVIEW_04/static/js/runtime-main.740a6422.js",
+    "runtime-main.js.map": "/INTERVIEW_04/static/js/runtime-main.740a6422.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/INTERVIEW_04/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.7c42f055.chunk.js": "/INTERVIEW_04/static/js/2.7c42f055.chunk.js",
+    "static/js/2.7c42f055.chunk.js.map": "/INTERVIEW_04/static/js/2.7c42f055.chunk.js.map",
+    "index.html": "/INTERVIEW_04/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/INTERVIEW_04/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.432b6769.chunk.css.map": "/INTERVIEW_04/static/css/main.432b6769.chunk.css.map",
+    "static/js/2.7c42f055.chunk.js.LICENSE.txt": "/INTERVIEW_04/static/js/2.7c42f055.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.740a6422.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.7c42f055.chunk.js",
+    "static/css/main.432b6769.chunk.css",
+    "static/js/main.f50a825d.chunk.js"
+  ]
+}
